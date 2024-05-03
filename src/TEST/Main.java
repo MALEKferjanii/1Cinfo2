@@ -1,7 +1,7 @@
 package TEST;
 
 import static TEST.methodes.calculerSomme;
-import static TEST.moyenne.*
+import static TEST.moyenne.*;
 public class Main {
     public static void main(String[] args) {
 // Test des méthodes
