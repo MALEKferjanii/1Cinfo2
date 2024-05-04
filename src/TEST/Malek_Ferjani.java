@@ -21,7 +21,7 @@ public class Malek_Ferjani {
     // Méthode pour calculer la factorielle d'un nombre
     public static long calculerFactorielle(int nombre) {
         if (nombre < 0) {
-            throw new IllegalArgumentException("n'est pas définie.");
+            throw new IllegalArgumentException("nbre n'est pas définie.");
         }
         if (nombre == 0 || nombre == 1) {
             return 1;
